@@ -12,9 +12,9 @@ class ExerciciosBeneficios1 {
 
         // Exemplo de regra: Vale-alimentação para quem ganha até R$ 5.000,00
         if (salario <= 5000) {
-            System.out.println(nome + " tem direito ao Vale-Alimentação.");
+            System.out.println(nome + " tem direito ao Vale-Alimentação. ");
         } else {
-            System.out.println(nome + " NÃO tem direito ao Vale-Alimentação.");
+            System.out.println(nome + " NÃO tem direito ao Vale-Alimentação. ");
         }
     }
 }
