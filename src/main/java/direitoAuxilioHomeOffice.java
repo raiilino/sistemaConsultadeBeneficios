@@ -11,9 +11,9 @@ class ExerciciosBeneficios4 {
         String modalidade = entrada.nextLine();
 
         if (modalidade.equalsIgnoreCase("home office")) {
-            System.out.println(nome + " tem direito ao Auxílio Home Office.");
+            System.out.println(nome + " tem direito ao Auxílio Home Office. ");
         } else {
-            System.out.println(nome + " NÃO tem direito ao Auxílio Home Office.");
+            System.out.println(nome + " NÃO tem direito ao Auxílio Home Office. ");
         }
     }
 }
