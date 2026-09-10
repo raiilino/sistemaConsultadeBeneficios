@@ -11,9 +11,9 @@ class ExerciciosBeneficios2 {
         int quantidadeFilhos = entrada.nextInt();
 
         if (quantidadeFilhos > 0) {
-            System.out.println(nome + " tem direito ao Auxílio-Creche.");
+            System.out.println(nome + " tem direito ao Auxílio-Creche. ");
         } else {
-            System.out.println(nome + " NÃO tem direito ao Auxílio-Creche.");
+            System.out.println(nome + " NÃO tem direito ao Auxílio-Creche. ");
         }
     }
 }
