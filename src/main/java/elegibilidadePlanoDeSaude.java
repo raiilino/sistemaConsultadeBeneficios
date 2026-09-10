@@ -12,9 +12,9 @@ class ExerciciosBeneficios3 {
 
         // Exemplo de regra: Elegível após o período de experiência (0.3 anos / 3 meses)
         if (tempoEmpresa >= 0.3) {
-            System.out.println(nome + " é elegível ao Plano de Saúde.");
+            System.out.println(nome + " é elegível ao Plano de Saúde. ");
         } else {
-            System.out.println(nome + " NÃO é elegível ao Plano de Saúde ainda.");
+            System.out.println(nome + " NÃO é elegível ao Plano de Saúde ainda. ");
         }
     }
 }
