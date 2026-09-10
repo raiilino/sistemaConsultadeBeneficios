@@ -12,9 +12,9 @@ class ExerciciosBeneficios6 {
 
         // Exemplo de regra: Participação na PLR para quem tem pelo menos 1 ano de empresa
         if (tempoEmpresa >= 1.0) {
-            System.out.println(nome + " tem direito à Participação na PLR.");
+            System.out.println(nome + " tem direito à Participação na PLR. ");
         } else {
-            System.out.println(nome + " NÃO tem direito à Participação na PLR.");
+            System.out.println(nome + " NÃO tem direito à Participação na PLR. ");
         }
     }
 }
