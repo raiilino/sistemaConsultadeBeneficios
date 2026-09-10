@@ -14,9 +14,9 @@ class ExerciciosBeneficios5 {
         String veiculoProprio = entrada.nextLine();
 
         if (modalidade.equalsIgnoreCase("presencial") && veiculoProprio.equalsIgnoreCase("sim")) {
-            System.out.println(nome + " tem direito ao Auxílio Combustível.");
+            System.out.println(nome + " tem direito ao Auxílio Combustível. ");
         } else {
-            System.out.println(nome + " NÃO tem direito ao Auxílio Combustível.");
+            System.out.println(nome + " NÃO tem direito ao Auxílio Combustível. ");
         }
     }
 }
