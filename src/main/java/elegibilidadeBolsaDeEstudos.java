@@ -15,9 +15,9 @@ class ExerciciosBeneficios7 {
 
         // Exemplo de regra: Maior de 18 anos e com mais de 2 anos de empresa
         if (idade >= 18 && tempoEmpresa >= 2.0) {
-            System.out.println(nome + " é elegível para Bolsa de Estudos.");
+            System.out.println(nome + " é elegível para Bolsa de Estudos. ");
         } else {
-            System.out.println(nome + " NÃO é elegível para Bolsa de Estudos.");
+            System.out.println(nome + " NÃO é elegível para Bolsa de Estudos. ");
         }
     }
 }
